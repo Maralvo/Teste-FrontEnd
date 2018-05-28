@@ -1,0 +1,5 @@
+C:\Users\Marcos\Desktop\Teste\Teste.VS2017.Solution\Teste.VS2017.Application\bin\Debug\Teste.VS2017.Application.dll
+C:\Users\Marcos\Desktop\Teste\Teste.VS2017.Solution\Teste.VS2017.Application\bin\Debug\Teste.VS2017.Application.pdb
+C:\Users\Marcos\Desktop\Teste\Teste.VS2017.Solution\Teste.VS2017.Application\obj\Debug\Teste.VS2017.Application.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\Teste\Teste.VS2017.Solution\Teste.VS2017.Application\obj\Debug\Teste.VS2017.Application.dll
+C:\Users\Marcos\Desktop\Teste\Teste.VS2017.Solution\Teste.VS2017.Application\obj\Debug\Teste.VS2017.Application.pdb

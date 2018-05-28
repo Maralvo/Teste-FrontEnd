@@ -1,0 +1,5 @@
+C:\Users\Marcos\Desktop\Teste\Teste.VS2017.Solution\teste.VS2017.Infra.CrossCutting.Security\bin\Debug\teste.VS2017.Infra.CrossCutting.Security.dll
+C:\Users\Marcos\Desktop\Teste\Teste.VS2017.Solution\teste.VS2017.Infra.CrossCutting.Security\bin\Debug\teste.VS2017.Infra.CrossCutting.Security.pdb
+C:\Users\Marcos\Desktop\Teste\Teste.VS2017.Solution\teste.VS2017.Infra.CrossCutting.Security\obj\Debug\teste.VS2017.Infra.CrossCutting.Security.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\Teste\Teste.VS2017.Solution\teste.VS2017.Infra.CrossCutting.Security\obj\Debug\teste.VS2017.Infra.CrossCutting.Security.dll
+C:\Users\Marcos\Desktop\Teste\Teste.VS2017.Solution\teste.VS2017.Infra.CrossCutting.Security\obj\Debug\teste.VS2017.Infra.CrossCutting.Security.pdb

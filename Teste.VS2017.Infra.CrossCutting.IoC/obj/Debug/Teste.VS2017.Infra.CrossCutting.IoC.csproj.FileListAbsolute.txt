@@ -1,0 +1,5 @@
+C:\Users\Marcos\Desktop\Teste\Teste.VS2017.Solution\Teste.VS2017.Infra.CrossCutting.IoC\bin\Debug\Teste.VS2017.Infra.CrossCutting.IoC.dll
+C:\Users\Marcos\Desktop\Teste\Teste.VS2017.Solution\Teste.VS2017.Infra.CrossCutting.IoC\bin\Debug\Teste.VS2017.Infra.CrossCutting.IoC.pdb
+C:\Users\Marcos\Desktop\Teste\Teste.VS2017.Solution\Teste.VS2017.Infra.CrossCutting.IoC\obj\Debug\Teste.VS2017.Infra.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\Teste\Teste.VS2017.Solution\Teste.VS2017.Infra.CrossCutting.IoC\obj\Debug\Teste.VS2017.Infra.CrossCutting.IoC.dll
+C:\Users\Marcos\Desktop\Teste\Teste.VS2017.Solution\Teste.VS2017.Infra.CrossCutting.IoC\obj\Debug\Teste.VS2017.Infra.CrossCutting.IoC.pdb
